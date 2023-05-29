@@ -39,3 +39,7 @@ We have conducted extensive research on top resorts in Fiji, with a particular f
 - [ ] Review and revise the report
 - [ ] Ensure a comprehensive tabulated comparison that includes children-free, scuba diving, not-cheap (upper-end), itinery for september available.
 - [ ] Publish the report on GitHub
+
+
+## Research Files
+- [Research - Flights](research-flights.md)
