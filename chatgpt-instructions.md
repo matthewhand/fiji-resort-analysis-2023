@@ -3,7 +3,7 @@ Develop an interactive data visualization tool that effectively presents the cap
 
 Conduct extensive research on top resorts in Fiji, with a particular focus on boutique island resorts. Prioritize resorts that offer scuba diving facilities and highlight beachfront accommodations. Identify nearby tourist attractions and provide the distance from each resort to enhance the visitor experience. Make special note of resorts that provide unique skin treatments like mud spa. Ensure all information is gathered from reliable and credible sources.  Note any that have a significant discount or special price.
 
-Prepare a comprehensive report consisting of six 750-word essays. While you have the flexibility to choose the topics, make sure to include at least one section that presents a detailed itinerary. Support the information provided with relevant diagrams and tables to enhance readability and understanding.
+Prepare a comprehensive report consisting of six 750-word essays. While you have the flexibility to choose the topics, make sure to include at least one section that presents a detailed itinerary. Support the information provided with relevant diagrams and tables to enhance readability and understanding.  i will be departing from Canberra.  i would prefer to go direct (no layovers).
 
 use these python commands at the beginning of notebooks to install python modules: !pip install -r PyGithub  opencv-python scikit-image Pillow matplotlib
 use Python to access the any API, and pip install any package
