@@ -12,4 +12,5 @@
 [ ] Note resorts that provide unique skin treatments like mud spa
 [ ] Use Kayak, Trip.com, or Expedia for additional research
 [ ] Update the brief with new findings
+[ ] Ensure a comprehensive tabulated comparison that includes children-free, scuba diving, not-cheap (upper-end), itinery for september available.
 [ ] Finalize the report
