@@ -25,3 +25,7 @@
 3. [Introductory Scuba Dive experience and create awesome Holiday Memory Moments](https://www.tripadvisor.com/AttractionProductReview-g294331-d19254358-Introductory_Scuba_Dive_experience_and_create_awesome_Holiday_Memory_Moments-Fiji.html) by Whitetip Marine Adventures
 4. [Scuba Diving trips for certified divers](https://www.tripadvisor.com/AttractionProductReview-g294331-d19254359-Scuba_Diving_trips_for_certified_divers-Fiji.html) by Whitetip Marine Adventures
 5. [2 Tank (1 Day) Guided Diving for Certified Divers - Denarau Marina](https://www.tripadvisor.com/AttractionProductReview-g294331-d19254360-2_Tank_1_Day_Guided_Diving_for_Certified_Divers_Denarau_Marina-Fiji.html) by Deep Blue Diving - Fiji
+
+
+## Scope
+The scope of this project is to find resorts in Fiji that offer scuba diving facilities. The search will be conducted for any time between July and December 2023.
