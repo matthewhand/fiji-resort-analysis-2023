@@ -29,3 +29,8 @@
 
 ## Scope
 The scope of this project is to find resorts in Fiji that offer scuba diving facilities. The search will be conducted for any time between July and December 2023.
+
+
+## Research Summary
+
+We have conducted extensive research on top resorts in Fiji, with a particular focus on boutique island resorts. We prioritized resorts that offer scuba diving facilities and highlighted beachfront accommodations. We identified nearby tourist attractions and provided the distance from each resort to enhance the visitor experience. We made special note of resorts that provide unique skin treatments like mud spa. We ensured all information was gathered from reliable and credible sources. We preferred resorts with a no-children policy.
