@@ -8,7 +8,9 @@ Prepare a comprehensive report consisting of six 750-word essays. While you have
 use these python commands at the beginning of notebooks to install python modules: !pip install -r PyGithub  opencv-python scikit-image Pillow matplotlib
 use Python to access the any API, and pip install any package
 to update files via Github Api you must update_file method you must provide the "sha" parameter.
-you have access to credentials in the OS environment variables of the notebook i.e. GITHUB_TOKEN, 
+you have access to credentials in the OS environment variables of the notebook i.e. GITHUB_TOKEN
+
+decide on a mapping solution that we can access using Python from this list (use webpilot plugin) - https://dev.to/amananandrai/geospatial-data-and-7-python-libraries-to-visualize-them-5gi1
 
 use the notebook with the same name as the task, else use Default.ipynb.
 Review notebook-analysis.md to learn what previous instances did.
