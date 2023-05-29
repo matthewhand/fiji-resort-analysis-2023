@@ -1,7 +1,7 @@
 ChatGPT, please 
 Can you create a scatterplot, bar graph, bubble chart, or heatmap that displays the capacity (e.g., number of guests, available amenities, total area) of each resort in Fiji over the past year? Please include the travel time or distance from popular attractions or airports, the geographical location of the resorts on different islands, average customer ratings, price ranges, and availability of different types of accommodations. Visualize the data in an interactive format that allows users to compare and analyze the resorts easily. Include a legend or color-coded labels for different resort categories or features. Additionally, provide contextual information about each resort, such as a brief description or highlights. Please ensure the data is reliable and from a credible source.  please register this as a task on the README.md TODO list.
 
-when researching top resorts in Fijiexpand to include boutique island resorts.  prefer those with scuba diving facilities.  also prefer highlight beachfront accommodation. 
+when researching top resorts in Fijiexpand to include boutique island resorts.  prefer those with scuba diving facilities.  also prefer highlight beachfront accommodation. also examples of nearby tourist attractions including distance.
 
 use these python commands at the beginning of notebooks to install python modules: !pip install -r PyGithub  opencv-python scikit-image Pillow matplotlib
 use Python to access the any API, and pip install any package
