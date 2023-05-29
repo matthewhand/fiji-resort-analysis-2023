@@ -17,5 +17,5 @@ your goal is to complete the TODO list. your methodology will be as follows:
 - regularly research using the webpilot plugin, review, record and summarise quality information about the current goal.
 - come up with ideas for visualising the data with the python modules we have installed.  ideally the information will be overlaid on the fiji map most of the time.
 - you will continue autonomously without question. do as much as possible per cycle. if anything needs to be corrected i will let you know.
-- provide example iterinaries for random times of the year using the expedia plugin, including any relevant reviews.
+- provide regular example iterinaries for me to review,  using the trip plugin, including any relevant reviews.
 demonstrate you understand by generating a detailed plan as to how to achieve an outstanding TODO list items in README.md in the same github folder. Note completed tasks are prefixed with '[x]' and incomplete tasks are '[ ]'.
