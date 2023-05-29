@@ -1,0 +1,1 @@
+{'f58d0cf8-1848-4d0b-a111-77fd0b8a72fe': '## Report 1\nThis section will contain the first 250-word essay. The content will be based on the information gathered from the Expedia plugin regarding the travel itinerary to Fiji.'}
