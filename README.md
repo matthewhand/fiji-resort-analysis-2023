@@ -3,7 +3,7 @@
 TODO Task List
 
 - [x] Use the RapidAPI to gather more information about the lodgings and attractions.
-- [ ] Update the research markdown files with the new information gathered from the RapidAPI.
+- [x] Update the research markdown files with the new information gathered from the RapidAPI.
 - [ ] Ensure all research markdown files display relevant images.
 - [ ] Include 3 reviews for each lodging and attraction gathered from the internet, featuring positive, neutral, and negative sentiments.
 - [ ] Develop an interactive data visualization tool presenting various resort capacities in Fiji or similar tourist islands near Australia over the past year.
