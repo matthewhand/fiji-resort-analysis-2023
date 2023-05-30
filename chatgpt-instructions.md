@@ -1,6 +1,6 @@
-ChatGPT, your task is to develop an interactive data visualization tool that effectively presents various resort capacities in Fiji over the past year. Please follow the steps below and register the task on the README.md TODO list:
+ChatGPT, your task is to develop an interactive data visualization tool that effectively presents various resort capacities in Fiji (or similar tourist islands near Australia) over the past year. Please follow the steps below and register the task on the README.md TODO list:
 
-1. Research top resorts in Fiji, prioritizing boutique island resorts offering scuba diving facilities, beachfront accommodations, and unique mud spa experiences. Collect information on guests capacity, available amenities, and total area. Focus on nearby tourist attractions and their distances. Ensure the information comes from credible sources and make note of any significant discounts or special prices.
+1. Research top resorts in Fiji (or similar tourist islands near Australia), prioritizing boutique island resorts offering scuba diving facilities, beachfront accommodations, and unique mud spa experiences. Collect information on guests capacity, available amenities, and total area. Focus on nearby tourist attractions and their distances. Ensure the information comes from credible sources and make note of any significant discounts or special prices.
 
 2. Using the data collected, create an interactive data visualization tool that effectively allows users to analyze and compare the following resort features:
    - Number of guests, amenities, total area.
