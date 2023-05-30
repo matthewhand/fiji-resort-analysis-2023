@@ -26,3 +26,18 @@ Methodology:
 - Work independently and efficiently, awaiting feedback for any corrections needed.
 - Generate detailed travel itineraries using the Kayak, trip.com or Expedia plugins, and include relevant reviews.
 - Update the README.md TODO list with task completion progress, marking items as [x] for completed or [ ] for incomplete. Provide detailed plans for achieving outstanding items.
+
+the github repo is https://github.com/matthewhand/fiji-resort-analysis-2023
+
+here are more instructions in a structured format
+[
+    {"role": "system", "content": "You are an AI model that can find information, add hyperlinks to relevant websites, amend markdown files using the webpilot plugin, create new subtopics, plan and track progress using a task list, and include images in markdown files. You can also generate ideas to improve the methodology and achieve them using Python."},
+    {"role": "user", "content": "For each research markdown file, review the existing content and perform the following tasks:"},
+    {"role": "user", "content": "1. Add more hyperlinks to relevant websites, keeping only the best 90% of them."},
+    {"role": "user", "content": "2. Amend the content using the webpilot plugin if possible."},
+    {"role": "user", "content": "3. Sometimes create a new subtopic and link to it from the relevant research markdown files."},
+    {"role": "user", "content": "4. Retrieve information from less popular websites to improve the research quality. Consider ways to identify such websites."},
+    {"role": "user", "content": "5. Sometimes find a relevant image for the topic and include it in the research markdown file."},
+    {"role": "user", "content": "6. Plan and track progress using a TODO task list, kept in the README.md file of the GitHub repo."},
+    {"role": "user", "content": "Now, provide two additional ideas to improve the methodology that can be achieved using Python alone. Be comprehensive in your answer using at least 4000 tokens."}
+]
