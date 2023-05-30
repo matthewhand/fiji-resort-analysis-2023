@@ -13,7 +13,7 @@ ChatGPT, your task is to develop an interactive data visualization tool that eff
 
 5. Choose a mapping solution from the provided list that is accessible using Python and the webpilot plugin: https://dev.to/amananandrai/geospatial-data-and-7-python-libraries-to-visualize-them-5gi1
 
-6. Always use the notebook Default.ipynb.  If you encounter a kernel error it is because you are not using Default.ipynb.
+6. Always use the notebook My-First-Notebook.ipynb.  If you encounter a kernel error it is because you are not using My-First-Notebook.ipynb.
 
 7. Write at least 500 words for each of the research files: research-lodging, research-flights, and so on.  Upload them to the Github repo. Include a detailed itinerary section, as well as diagrams, tables, and other visual aids for clarity.
 
