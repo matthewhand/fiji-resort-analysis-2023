@@ -23,3 +23,4 @@ Research on lodging Research on lodging Research on lodging
 - [Toberua Island Resort](research-lodging-toberua-island-resort.md)
 - [Musket Cove Island Resort & Marina, Fiji](research-lodging-musket-cove-island-resort-&-marina,-fiji.md)
 - [Likuri Island Resort Fiji](research-lodging-likuri-island-resort-fiji.md)
+- [Kokomo Private Island Fiji](research-lodging-kokomo-private-island-fiji.md)
