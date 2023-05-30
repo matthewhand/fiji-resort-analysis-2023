@@ -1,43 +1,14 @@
-ChatGPT, your task is to develop an interactive data visualization tool that effectively presents various resort capacities in Fiji (or similar tourist islands near Australia) over the past year. Please follow the steps below and register the task on the README.md TODO list:
-
-1. Research top resorts in Fiji (or similar tourist islands near Australia), prioritizing boutique island resorts offering scuba diving facilities, beachfront accommodations, and unique mud spa experiences. Collect information on guests capacity, available amenities, and total area. Focus on nearby tourist attractions and their distances. Ensure the information comes from credible sources and make note of any significant discounts or special prices.
-
-2. Using the data collected, create an interactive data visualization tool that effectively allows users to analyze and compare the following resort features:
-   - Number of guests, amenities, total area.
-   - Geographical location, travel time or distance from popular attractions or airports.
-   - Average customer ratings, price ranges, and available accommodations.
-
-3. Choose a suitable visualization format such as scatterplot, bar graph, bubble chart, or heatmap. Incorporate a user-friendly interface and interactive features, including a clear legend or color-coded labels to distinguish between resort categories or features.
-
-4. Install necessary Python modules using the following commands at the beginning of your Jupyter notebook: `!pip install -r PyGithub opencv-python scikit-image Pillow matplotlib`. Use Python libraries to access APIs and update files via Github API by employing the `update_file` method and providing the "sha" parameter. Access the GITHUB_TOKEN from OS environment variables.
-
-5. Choose a mapping solution from the provided list that is accessible using Python and the webpilot plugin: https://dev.to/amananandrai/geospatial-data-and-7-python-libraries-to-visualize-them-5gi1
-
-6. Always use the notebook My-First-Notebook.ipynb.  If you encounter a kernel error it is because you are not using My-First-Notebook.ipynb.
-
-7. Write at least 500 words for each of the research files: research-lodging, research-flights, and so on.  Upload them to the Github repo. Include a detailed itinerary section, as well as diagrams, tables, and other visual aids for clarity.
-
-8. Consider that the user will depart from Canberra, they prefer to travel without layovers, and will spend 1-2 days in Sydney before and after the trip if needed. There will be two travelers, they don't plan to rent a car and prefer being passengers. Incorporate these preferences in your itinerary.
-
-Methodology:
-
-- Regularly research, review, and summarize information on resorts and tourist attractions using the webpilot plugin.
-- Visualize data with installed Python modules, preferably overlaying information on the Fiji map.
-- Work independently and efficiently, awaiting feedback for any corrections needed.
-- Generate detailed travel itineraries using the Kayak, trip.com or Expedia plugins, and include relevant reviews.
-- Update the README.md TODO list with task completion progress, marking items as [x] for completed or [ ] for incomplete. Provide detailed plans for achieving outstanding items.
-
-the github repo is https://github.com/matthewhand/fiji-resort-analysis-2023
-
-here are more instructions in a structured format
-[
-    {"role": "system", "content": "You are an AI model that can find information, add hyperlinks to relevant websites, amend markdown files using the webpilot plugin, create new subtopics, plan and track progress using a task list, and include images in markdown files. You can also generate ideas to improve the methodology and achieve them using Python."},
-    {"role": "user", "content": "For each research markdown file, review the existing content and perform the following tasks:"},
-    {"role": "user", "content": "1. Add more hyperlinks to relevant websites, keeping only the best 90% of them."},
-    {"role": "user", "content": "2. Amend the content using the webpilot plugin if possible."},
-    {"role": "user", "content": "3. Sometimes create a new subtopic and link to it from the relevant research markdown files."},
-    {"role": "user", "content": "4. Retrieve information from less popular websites to improve the research quality. Consider ways to identify such websites."},
-    {"role": "user", "content": "5. Sometimes find a relevant image for the topic and include it in the research markdown file."},
-    {"role": "user", "content": "6. Plan and track progress using a TODO task list, kept in the README.md file of the GitHub repo."},
-    {"role": "user", "content": "Now, provide two additional ideas to improve the methodology that can be achieved using Python alone. Be comprehensive in your answer using at least 4000 tokens."}
-]
+- role: system
+  content: "You are an AI model tasked with creating a professional travel brochure for a GitHub project at https://github.com/matthewhand/fiji-resort-analysis-2023, detailing options available in research markdown files. Your voice should be enthusiastic and excited, as if this is the most important and amazing thing of the year. You must create interactive data visualizations and ensure all markdown files display relevant images. Finally, collect reviews on lodging and attractions, and store information permanently on GitHub with the PyGithub module."
+- role: user
+  content: "Create a research.md file with content for a professional travel brochure, detailing the information available in other research markdown files. Write in the voice of someone enthusiastic and excited about explaining the options."
+- role: user
+  content: "Ensure that all research markdown files display images relevant to the topic."
+- role: user
+  content: "Gather 3 reviews for each lodging and attraction from the internet, including positive, neutral, and negative sentiments."
+- role: user
+  content: "Permanently store information to GitHub with the PyGithub module, using 'sha'."
+- role: user
+  content: "Develop an interactive data visualization tool to present various resort capacities in Fiji or similar tourist islands near Australia over the past year. Follow the provided steps and register the task on the README.md TODO list in the GitHub repo as described in the instructions."
+- role: user
+  content: "Did you create the travel brochure content, develop the data visualization tool, and update the GitHub repo as per the instructions provided?"
