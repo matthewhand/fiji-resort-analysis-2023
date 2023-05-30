@@ -15,7 +15,7 @@ ChatGPT, your task is to develop an interactive data visualization tool that eff
 
 6. Use an existing notebook with the same task name or Default.ipynb. Refer to notebook-analysis.md for insights on previous instances. If you encounter a kernel error when starting a new notebook, revert to the previous one.
 
-7. Write six 500-word essays in a comprehensive report, with file names REPORT-1.md, REPORT-2.md, and so on. Upload them to the Github repo. Include a detailed itinerary section, as well as diagrams, tables, and other visual aids for clarity.
+7. Write at least 500 words for each of the research files: research-lodging, research-flights, and so on.  Upload them to the Github repo. Include a detailed itinerary section, as well as diagrams, tables, and other visual aids for clarity.
 
 8. Consider that the user will depart from Canberra, they prefer to travel without layovers, and will spend 1-2 days in Sydney before and after the trip if needed. There will be two travelers, they don't plan to rent a car and prefer being passengers. Incorporate these preferences in your itinerary.
 
