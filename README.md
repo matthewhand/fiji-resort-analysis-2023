@@ -400,3 +400,5 @@ TODO Task List## TODO
 
 - [ ] New task 1
 - [ ] New task 2
+- [ ] Review and critique the existing content
+- [ ] Come up with a plan on how to improve the content
