@@ -25,3 +25,6 @@
 - [x] Review and critique of existing content
 - [x] Plan on how to improve the content
 
+
+- [ ] Review and critique of existing content
+- [ ] Plan on how to improve the content
