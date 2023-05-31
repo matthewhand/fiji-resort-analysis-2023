@@ -27,3 +27,12 @@ Potential Negative Feedback:
 **Address**: Denarau Island, Nadi, Viti Levu Fiji
 **Phone**: +679 675 0500
 **Website**: [southseacruises.com](https://www.southseacruises.com)
+
+**Title**: South Sea Cruises
+**Location**: Nadi, Viti Levu
+**Rating**: 4.5/5 based on 1,529 reviews
+**Rank**: #8 out of 25 things to do in Nadi
+**Recommended duration**: More than 3 hours
+**Address**: Denarau Island, Nadi, Viti Levu Fiji
+**Phone**: +679 675 0500
+**Website**: [southseacruises.com](https://www.southseacruises.com)
