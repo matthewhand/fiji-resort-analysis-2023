@@ -6,8 +6,8 @@ TODO Task List
 
 - [x] Make use of the newly subscribed RapidAPI APIs:
     - [ ] https://rapidapi.com/tipsters/api/hotels-com-provider
-    - [ ] https://rapidapi.com/apidojo/api/hotels4/pricing
-    - [ ] https://rapidapi.com/apidojo/api/hotels4/pricing
+    - [x] https://rapidapi.com/apidojo/api/hotels4/pricing
+    - [x] https://rapidapi.com/apidojo/api/hotels4/pricing
 - [x] Use the RapidAPI to gather more information about the lodgings and attractions.
 - [x] Update the research markdown files with the new information gathered from the RapidAPI.
 - [ ] Ensure all research markdown files display relevant images.
