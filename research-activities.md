@@ -7,3 +7,4 @@
 
 - [South Sea Island Day Cruise](https://github.com/matthewhand/fiji-resort-analysis-2023/blob/main/research-activities-south-sea-island-day-cruise.md)
 - [South Sea Island Day Cruise](https://github.com/matthewhand/fiji-resort-analysis-2023/blob/main/research-activities-south-sea-island-day-cruise.md)
+- [South Sea Island Day Cruise](https://github.com/matthewhand/fiji-resort-analysis-2023/blob/main/research-activities-south-sea-island-day-cruise.md)
