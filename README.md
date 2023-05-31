@@ -16,11 +16,12 @@
 - [x] Review and critique the existing content
 - [x] Come up with a plan on how to improve the content
 - [x] Write an executive summary of the project
-- [ ] Upload the project to GitHub
-- [ ] Expand data collection to include other attractions in Fiji
-- [ ] Conduct further data analysis
-- [ ] Improve the quality and content of the markdown files
-- [ ] Explore the use of additional APIs
-- [ ] Improve the presentation of the project
-- [ ] Review and critique of existing content
-- [ ] Plan on how to improve the content
+- [x] Upload the project to GitHub
+- [x] Expand data collection to include other attractions in Fiji
+- [x] Conduct further data analysis
+- [x] Improve the quality and content of the markdown files
+- [x] Explore the use of additional APIs
+- [x] Improve the presentation of the project
+- [x] Review and critique of existing content
+- [x] Plan on how to improve the content
+
