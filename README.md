@@ -18,4 +18,4 @@ TODO Task List
 - [ ] Write at least 500 words for each of the research files: research-lodging, research-flights, and so on.
 - [x] Upload them to the GitHub repo, including a detailed itinerary section, as well as diagrams, tables, and other visual aids for clarity.
 - [x] While developing the itinerary, consider offering alternative options, such as different routes or activities, to cater to various user preferences and interests.
-- [ ] Research and analyze scuba diving opportunities in Fiji and include the information in the research markdown files.
+- [x] Research and analyze scuba diving opportunities in Fiji and include the information in the research markdown files.
