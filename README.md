@@ -22,3 +22,5 @@
 - [ ] Improve the quality and content of the markdown files
 - [ ] Explore the use of additional APIs
 - [ ] Improve the presentation of the project
+- [ ] Review and critique of existing content
+- [ ] Plan on how to improve the content
