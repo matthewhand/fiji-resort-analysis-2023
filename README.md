@@ -28,3 +28,5 @@
 
 - [ ] Review and critique of existing content
 - [ ] Plan on how to improve the content
+
+- [x] Update markdown files with relevant information from web sources
