@@ -145,3 +145,6 @@ TODO Task List## TODO
 - [ ] Collect reviews on lodging and attractions
 - [ ] Create interactive data visualizations
 - [ ] Improve the quality and content of the markdown files
+
+- [ ] New task 1
+- [ ] New task 2
