@@ -14,6 +14,11 @@ This project is a comprehensive analysis of resorts in Fiji for a potential holi
 
 
 ## TODO
+- [ ] Expand the Scope to Include Other Holiday Destinations
+- [ ] Implement a System for Gathering Real-Time Data
+- [ ] Develop a Personalized Recommendation System
+- [ ] Create Interactive Visualizations
+- [ ] Incorporate User Reviews
 
 - [x] Gather data on resorts in Fiji
 - [x] Analyze the data
