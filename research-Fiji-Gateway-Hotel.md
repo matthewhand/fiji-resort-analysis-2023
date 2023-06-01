@@ -6,6 +6,8 @@
 Latitude: -17.753218
 Longitude: 177.454913
 
+The Fiji Gateway Hotel is conveniently located across the road from Nadi International Airport. It's also a short drive away from some of Fiji's most popular tourist attractions, including the Garden of the Sleeping Giant, the Sri Siva Subramaniya Temple, and the Nadi Market.
+
 ## Type
 
 HOTEL
@@ -31,8 +33,8 @@ Fiji Gateway Hotel is a popular choice for both transit and holiday travelers. L
 - Free airport shuttle
 - Free WiFi
 - Swimming pool
-- Two restaurants and two bars
+- Two restaurants and two bars: The restaurants offer a variety of cuisines, including local Fijian dishes, Indian cuisine, and international favorites. The bars serve a wide selection of drinks, including tropical cocktails.
 - Tennis courts
-- Spa
-- Fitness center
-- Conference facilities
+- Spa: The spa offers a range of services, including massages, facials, and body treatments.
+- Fitness center: The fitness center is equipped with modern exercise equipment.
+- Room types: The hotel offers a variety of room types, including standard rooms, deluxe rooms, and suites. All rooms are equipped with air conditioning, a flat-screen TV, and a private bathroom.
