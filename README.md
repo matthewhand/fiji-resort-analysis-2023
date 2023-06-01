@@ -21,3 +21,12 @@ This project is a comprehensive analysis of resorts in Fiji for a potential holi
 - [x] Write up the analysis in markdown files
 - [x] Update README.md with a table of contents linking to all research files
 - [ ] Further improvements and brainstorming
+
+
+## Table of Contents
+
+- [Research-Lodging](research-lodging.md)
+- [Research-Flights](research-flights.md)
+- [Research-Attractions](research-attractions.md)
+- [Research-Itinerary](research-itinerary.md)
+- [Research-Visualization](research-visualization.md)
