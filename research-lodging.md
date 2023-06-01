@@ -1,18 +1,40 @@
+# Dive Into Lembeh
 
-- [Tokoriki Island Resort](research-lodging-tokoriki-island-resort.md)
-- [Matangi Private Island Resort](research-lodging-matangi-private-island-resort.md)
-- [Malolo Island Resort](research-lodging-malolo-island-resort.md)
-- [Toberua Island Resort](research-lodging-toberua-island-resort.md)
-- [Musket Cove Island Resort & Marina, Fiji](research-lodging-musket-cove-island-resort-&-marina,-fiji.md)
-- [Likuri Island Resort Fiji](research-lodging-likuri-island-resort-fiji.md)
-- [Kokomo Private Island Fiji](research-lodging-kokomo-private-island-fiji.md)
-- [Fiji Marriott Resort Momi Bay](research-lodging-fiji-marriott-resort-momi-bay.md)
-- [The Westin Denarau Island Resort & Spa, Fiji](research-lodging-the-westin-denarau-island-resort-&-spa,-fiji.md)
-- [Uprising Beach Resort](research-lodging-uprising-beach-resort.md)
-- [The Pearl South Pacific Resort](research-lodging-the-pearl-south-pacific-resort.md)
-- [Namale Resort and Spa - All Inclusive](research-lodging-namale-resort-and-spa---all-inclusive.md)
-- [Fiji Hideaway Resort and Spa](research-lodging-fiji-hideaway-resort-and-spa.md)
-- [Jean-Michel Cousteau Resort Fiji](research-lodging-jean-michel-cousteau-resort-fiji.md)
-- [The Beachouse](research-lodging-the-beachouse.md)
-- [Royal Davui Island Resort - Adults Only, Meal Inclusive](research-lodging-royal-davui-island-resort---adults-only,-meal-inclusive.md)
-- [Kokomo Private Island Fiji](research-lodging-kokomo-private-island-fiji.md)
+"DIVE INTO LEMBEH" is nestled in Kasawari bay and has its own resort, located on the main land of the Lembeh strait, Indonesia - a true macro photographer's.
+
+Link: https://diveintolembeh.com
+
+Image: ## Positive Reviews
+
+# Lembeh Resort - Dive Resort & Spa
+
+Luxury resort accommodation in the Lembeh Strait, enjoy muck diving with marine biology and underwater photography trained dive guides.
+
+Link: https://www.lembehresort.com/
+
+Image: ## Positive Reviews
+
+# NAD-Lembeh Resort
+
+NAD-Lembeh Resort and the Lembeh Strait are famous all over the world for the peerless macro and muck diving combined with comfortable good.
+
+Link: https://www.nad-lembeh.com
+
+Image: ## Positive Reviews
+
+# Divers Lodge Lembeh
+
+Located on the most beautiful part of Lembeh Island, between the Lembeh Strait and Sulawesi Sea, surrounded by protected forest.
+
+Link: https://www.diverslodgelembeh.com
+
+Image: ## Positive Reviews
+
+# Murex Dive Resorts
+
+Experience the world's best muck diving in the Lembeh Strait, Home to some of the most unique.
+
+Link: https://murexresorts.com/diving-lembeh
+
+Image: ## Positive Reviews
+
