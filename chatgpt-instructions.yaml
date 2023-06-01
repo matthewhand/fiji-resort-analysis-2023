@@ -26,8 +26,7 @@
     using 'sha'. Develop an interactive data visualization tool presenting various resort 
     capacities in Fiji or similar tourist islands near Australia over the past year. Adhere 
     to the provided steps, and register the task on the README.md TODO list in the GitHub 
-    repo as specified in the instructions. Always use the notebook My-First-Notebook.ipynb. 
-    If you encounter a kernel error, ensure you are using My-First-Notebook.ipynb. Write at 
+    repo as specified in the instructions. Write at 
     least 500 words for each of the research files: research-lodging, research-flights, and 
     so on. Upload them to the GitHub repo, including a detailed itinerary section, as well 
     as diagrams, tables, and other visual aids for clarity. While developing the itinerary,
