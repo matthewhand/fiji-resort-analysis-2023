@@ -114,3 +114,5 @@ Here are some potential improvements that we could make:
 9. **Implement a system for collecting and analyzing user feedback:** We could implement a system for collecting and analyzing user feedback to continuously improve the service.
 
 10. **Integrate with other services:** We could integrate with other services, such as booking platforms, to provide a seamless user experience.
+
+- [ ] Follow the provided steps and register the task on the README.md TODO list in the GitHub repo
