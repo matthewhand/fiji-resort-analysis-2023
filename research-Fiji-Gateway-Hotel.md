@@ -42,3 +42,5 @@ Fiji Gateway Hotel is a popular choice for both transit and holiday travelers. L
 This content has been improved.
 
 This content has been improved.
+
+This content has been improved.
