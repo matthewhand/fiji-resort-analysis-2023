@@ -14,7 +14,9 @@ This project is a comprehensive analysis of resorts in Fiji for a potential holi
 
 
 ## TODO
+- [ ] Create a GitHub workflow that validates all the links in all the markdown files.
 ## TODO
+- [ ] Create a GitHub workflow that validates all the links in all the markdown files.
 - [x] Improve Accessibility
 - [x] Add Community Features
 - [x] Implement a Notification System
