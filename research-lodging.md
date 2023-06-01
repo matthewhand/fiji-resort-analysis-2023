@@ -48,3 +48,5 @@ Note: Unable to generate a graph comparing the lodgings based on their ratings a
 This content has been improved.
 
 This content has been improved.
+
+This content has been improved.
