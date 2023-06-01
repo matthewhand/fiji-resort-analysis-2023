@@ -12,7 +12,7 @@
 
 - role: user
   content: >
-    Always be improving the quality and content of the markdown files prefixed with research-.
+    Always be reviewing the quality and content of the markdown files prefixed with research-.
     Make use of RAPIDAPI_API_KEY os env to access rapidapi.
     Follow the provided steps and register the task on the README.md TODO list
     in the GitHub repo, ensuring you cover each step as detailed in the instructions.
