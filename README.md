@@ -14,6 +14,11 @@ This project is a comprehensive analysis of resorts in Fiji for a potential holi
 
 
 ## TODO
+- [ ] Improve Accessibility
+- [ ] Add Community Features
+- [ ] Implement a Notification System
+- [ ] Implement User Profiles
+- [ ] Enrich Data with Additional Data Sources
 - [ ] Integrate the Project with Other Services
 - [ ] Implement a System for Collecting and Analyzing User Feedback
 - [ ] Improve the User Interface
