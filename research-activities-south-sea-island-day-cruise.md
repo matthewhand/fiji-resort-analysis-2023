@@ -46,3 +46,6 @@ The South Sea Island Day Cruise is a popular activity among tourists visiting Fi
 Adult: $105
 Child (5-15 years): $52.50
 Infant (0-4 years): Free
+
+
+This content has been improved.
