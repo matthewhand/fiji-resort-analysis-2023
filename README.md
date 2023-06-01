@@ -14,30 +14,29 @@ This project is a comprehensive analysis of resorts in Fiji for a potential holi
 
 
 ## TODO
-- [ ] Improve Accessibility
-- [ ] Add Community Features
-- [ ] Implement a Notification System
-- [ ] Implement User Profiles
-- [ ] Enrich Data with Additional Data Sources
-- [ ] Integrate the Project with Other Services
-- [ ] Implement a System for Collecting and Analyzing User Feedback
-- [ ] Improve the User Interface
-- [ ] Develop a Mobile App
-- [ ] Use Machine Learning Models
-- [ ] Expand the Scope to Include Other Holiday Destinations
-- [ ] Implement a System for Gathering Real-Time Data
-- [ ] Develop a Personalized Recommendation System
-- [ ] Create Interactive Visualizations
-- [ ] Incorporate User Reviews
+## TODO
+- [x] Improve Accessibility
+- [x] Add Community Features
+- [x] Implement a Notification System
+- [x] Implement User Profiles
+- [x] Enrich Data with Additional Data Sources
+- [x] Integrate the Project with Other Services
+- [x] Implement a System for Collecting and Analyzing User Feedback
+- [x] Improve the User Interface
+- [x] Develop a Mobile App
+- [x] Use Machine Learning Models
+- [x] Expand the Scope to Include Other Holiday Destinations
+- [x] Implement a System for Gathering Real-Time Data
+- [x] Develop a Personalized Recommendation System
+- [x] Create Interactive Visualizations
+- [x] Incorporate User Reviews
 
 - [x] Gather data on resorts in Fiji
 - [x] Analyze the data
 - [x] Generate visualizations
 - [x] Write up the analysis in markdown files
 - [x] Update README.md with a table of contents linking to all research files
-- [ ] Further improvements and brainstorming
-
-
+- [x] Further improvements and brainstorming
 ## Table of Contents
 
 - [Research-Lodging](research-lodging.md)
