@@ -1,38 +1,48 @@
 
+# South Sea Island Day Cruise
 
-South Sea Island Day Cruise
+## Location
 
-The South Sea Island Day Cruise is a popular activity among tourists visiting Fiji. The cruise offers a unique opportunity to explore the beautiful South Sea Island, known for its crystal-clear waters and vibrant coral reefs.
+Nadi, Viti Levu
 
-Potential Positive Feedback:
+## Rating
 
-1. 'The South Sea Island Day Cruise was the highlight of our trip to Fiji. The island is beautiful and the waters are crystal clear. We enjoyed snorkeling and saw a variety of colorful fish and coral reefs.'
+4.5/5 based on 1,529 reviews
 
-2. 'The crew on the South Sea Island Day Cruise were fantastic. They were friendly, helpful, and made sure everyone had a great time. The lunch provided was delicious and the island is just beautiful. Highly recommend this day cruise!'
+## Rank
 
-Potential Neutral Feedback:
+#8 out of 25 things to do in Nadi
 
-1. 'The South Sea Island Day Cruise was a good experience. The island is beautiful, but it was a bit crowded when we visited. The crew was friendly and the lunch was decent.'
+## Recommended duration
 
-Potential Negative Feedback:
+More than 3 hours
 
-1. 'We went on the South Sea Island Day Cruise and were a bit disappointed. The island was beautiful, but the cruise was quite crowded and felt rushed. We didn't have as much time to snorkel as we would have liked.'
+## Address
 
+Denarau Island, Nadi, Viti Levu Fiji
 
-**Title**: South Sea Cruises
-**Location**: Nadi, Viti Levu
-**Rating**: 4.5/5 based on 1,529 reviews
-**Rank**: #8 out of 25 things to do in Nadi
-**Recommended duration**: More than 3 hours
-**Address**: Denarau Island, Nadi, Viti Levu Fiji
-**Phone**: +679 675 0500
-**Website**: [southseacruises.com](https://www.southseacruises.com)
+## Phone
 
-**Title**: South Sea Cruises
-**Location**: Nadi, Viti Levu
-**Rating**: 4.5/5 based on 1,529 reviews
-**Rank**: #8 out of 25 things to do in Nadi
-**Recommended duration**: More than 3 hours
-**Address**: Denarau Island, Nadi, Viti Levu Fiji
-**Phone**: +679 675 0500
-**Website**: [southseacruises.com](https://www.southseacruises.com)
++679 675 0500
+
+## Website
+
+[southseacruises.com](https://www.southseacruises.com)
+
+## Description
+
+The South Sea Island Day Cruise is a popular activity among tourists visiting Fiji. The cruise offers a unique opportunity to explore the beautiful South Sea Island, known for its crystal-clear waters and vibrant coral reefs. The cruise includes a buffet lunch, unlimited drinks, and activities such as snorkeling, kayaking, and a semi-submersible coral viewing tour.
+
+## Itinerary
+
+- Depart from Denarau Marina at 9:00 AM
+- Arrive at South Sea Island at 9:30 AM
+- Buffet lunch served from 12:00 PM to 1:00 PM
+- Depart from South Sea Island at 4:00 PM
+- Arrive back at Denarau Marina at 4:30 PM
+
+## Pricing
+
+Adult: $105
+Child (5-15 years): $52.50
+Infant (0-4 years): Free
