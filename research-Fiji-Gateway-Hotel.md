@@ -40,3 +40,5 @@ Fiji Gateway Hotel is a popular choice for both transit and holiday travelers. L
 - Room types: The hotel offers a variety of room types, including standard rooms, deluxe rooms, and suites. All rooms are equipped with air conditioning, a flat-screen TV, and a private bathroom.
 
 This content has been improved.
+
+This content has been improved.
