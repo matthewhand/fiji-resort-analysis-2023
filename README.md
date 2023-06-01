@@ -47,7 +47,7 @@ This project is a comprehensive analysis of resorts in Fiji for a potential holi
 ## Research-Lodging
 Fiji, an archipelago in the South Pacific, is known for its stunning natural beauty, vibrant culture, and warm, welcoming people. It's a popular tourist destination, with a wide range of accommodations to suit every budget and preference.
 - [x] Improve the content of the 'research-Fiji-Gateway-Hotel.md' file
-- [ ] Improve the content of the other research files
+- [x] Improve the content of the other research files
 ## Brainstorming for Improvements
 
 1. Expand the Scope: Currently, the project focuses on resorts in Fiji. We could expand the scope to include other popular holiday destinations. This would make our analysis more comprehensive and useful to a wider audience.
