@@ -11,3 +11,12 @@
   - [ ] Interactive Visualizations: The project could benefit from more interactive visualizations. These could allow users to explore the data in a more engaging way.
   - [ ] User-Friendly Interface: A user-friendly interface can make the project more appealing and easier to navigate.
 - [ ] Plan on how to improve the content and update the TODO list (and also add this task again)
+
+
+## Project Navigation
+- [Research Lodgings](research-lodgings.md)
+  - [Fiji Marriott Resort Momi Bay](lodgings/Fiji-Marriott-Resort-Momi-Bay.md)
+  - [Sheraton Denarau Villas](lodgings/Sheraton-Denarau-Villas.md)
+- [Research Activities](research-activities.md)
+- [Research Flights](research-flights.md)
+- [Research Car Rentals](research-car-rentals.md)
