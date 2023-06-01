@@ -115,4 +115,4 @@ Here are some potential improvements that we could make:
 
 10. **Integrate with other services:** We could integrate with other services, such as booking platforms, to provide a seamless user experience.
 
-- [ ] Follow the provided steps and register the task on the README.md TODO list in the GitHub repo
+- [x] Follow the provided steps and register the task on the README.md TODO list in the GitHub repo
