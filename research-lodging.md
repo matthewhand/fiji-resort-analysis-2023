@@ -43,3 +43,4 @@ Image: ## Positive Reviews
 ![Ratings of Top Diving Resorts in Indonesia](https://chat.noteable.io/origami/o/01H1T85VVSV0ZNAQCK59W0RN3H.png)
 
 Note: Unable to generate a graph comparing the lodgings based on their ratings and prices due to missing data.
+![Bar Chart](https://chat.noteable.io/origami/o/01H1TJ2XN0TYYXY7TYQJAE803H.png)
