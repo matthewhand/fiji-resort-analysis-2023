@@ -14,6 +14,11 @@ This project is a comprehensive analysis of resorts in Fiji for a potential holi
 
 
 ## TODO
+- [ ] Integrate the Project with Other Services
+- [ ] Implement a System for Collecting and Analyzing User Feedback
+- [ ] Improve the User Interface
+- [ ] Develop a Mobile App
+- [ ] Use Machine Learning Models
 - [ ] Expand the Scope to Include Other Holiday Destinations
 - [ ] Implement a System for Gathering Real-Time Data
 - [ ] Develop a Personalized Recommendation System
