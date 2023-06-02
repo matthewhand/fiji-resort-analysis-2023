@@ -27,3 +27,23 @@ ex User Reviews and Ratings
 ex Automated Data Collection
 ex Further improvements and brainstorming
 ex Validate each of the other TODO list tasks are complete and then remove them from the list
+ex Implement a system for tracking changes in resort prices over time
+ex Develop a feature for users to save their favorite resorts
+ex Create a user-friendly dashboard for visualizing resort data
+ex Incorporate weather data into the resort analysis
+ex Develop a feature for comparing different resorts
+ex Implement a system for sending notifications to users when prices at their favorite resorts drop
+ex Incorporate flight and local transportation data into the resort analysis
+ex Develop a mobile app for users to access the resort analysis on the go
+ex Implement a system for users to share their resort reviews and ratings
+ex Incorporate data from other holiday destinations for users interested in exploring beyond Fiji
+ex Implement a system for tracking changes in resort prices over time
+ex Develop a feature for users to save their favorite resorts
+ex Create a user-friendly dashboard for visualizing resort data
+ex Incorporate weather data into the resort analysis
+ex Develop a feature for comparing different resorts
+ex Implement a system for sending notifications to users when prices at their favorite resorts drop
+ex Incorporate flight and local transportation data into the resort analysis
+ex Develop a mobile app for users to access the resort analysis on the go
+ex Implement a system for users to share their resort reviews and ratings
+ex Incorporate data from other holiday destinations for users interested in exploring beyond Fiji
