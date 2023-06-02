@@ -1,5 +1,5 @@
 
-- [ ] Create a GitHub workflow that validates all the links in all the markdown files.
+- [x] Create a GitHub workflow that validates all the links in all the markdown files.
 - [x] Improve Accessibility
 - [x] Add Community Features
 - [x] Implement a Notification System
