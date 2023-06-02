@@ -31,3 +31,5 @@
 - [ ] User Reviews and Ratings
 - [ ] Automated Data Collection
 - [ ] Further improvements and brainstorming
+
+- [ ] Validate each of the other TODO list tasks are complete, and then remove them from the list.
