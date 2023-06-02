@@ -1,1 +1,1 @@
-- [Fiji Marriott Resort Momi Bay](./fiji-marriott-resort-momi-bay.md)
+- [The Westin Denarau Island Resort & Spa, Fiji](./the-westin-denarau-island-resort-&-spa,-fiji.md)
