@@ -1,1 +1,1 @@
-- [The Westin Denarau Island Resort & Spa, Fiji](./the-westin-denarau-island-resort-&-spa,-fiji.md)
+- [Fiji Gateway Hotel](./fiji-gateway-hotel.md)
