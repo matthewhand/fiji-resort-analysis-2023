@@ -47,3 +47,4 @@ ex Incorporate flight and local transportation data into the resort analysis
 ex Develop a mobile app for users to access the resort analysis on the go
 ex Implement a system for users to share their resort reviews and ratings
 ex Incorporate data from other holiday destinations for users interested in exploring beyond Fiji
+- Create a mockup React + MUI application for the Fiji travel scuba research
