@@ -1,7 +1,5 @@
+# Fiji 2023 Travel Brochure
 
-# Fiji Travel Brochure
-
-Welcome to Fiji, the paradise in the South Pacific! This brochure provides a summary of the information available in our detailed research files. Let's dive in!
 
 
 # Fiji Gateway Hotel
@@ -10,6 +8,8 @@ Welcome to Fiji, the paradise in the South Pacific! This brochure provides a sum
 
 Latitude: -17.753218
 Longitude: 177.454913
+
+The Fiji Gateway Hotel is conveniently located across the road from Nadi International Airport. It's also a short drive away from some of Fiji's most popular tourist attractions, including the Garden of the Sleeping Giant, the Sri Siva Subramaniya Temple, and the Nadi Market.
 
 ## Type
 
@@ -36,11 +36,19 @@ Fiji Gateway Hotel is a popular choice for both transit and holiday travelers. L
 - Free airport shuttle
 - Free WiFi
 - Swimming pool
-- Two restaurants and two bars
+- Two restaurants and two bars: The restaurants offer a variety of cuisines, including local Fijian dishes, Indian cuisine, and international favorites. The bars serve a wide selection of drinks, including tropical cocktails.
 - Tennis courts
-- Spa
-- Fitness center
-- Conference facilities
+- Spa: The spa offers a range of services, including massages, facials, and body treatments.
+- Fitness center: The fitness center is equipped with modern exercise equipment.
+- Room types: The hotel offers a variety of room types, including standard rooms, deluxe rooms, and suites. All rooms are equipped with air conditioning, a flat-screen TV, and a private bathroom.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 
 # Fiji Marriott Resort Momi Bay
 
@@ -82,6 +90,15 @@ Fiji Marriott Resort Momi Bay, known for being the only property on Fiji’s mai
 - Kids club
 - Meeting and event spaces
 
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
 # The Westin Denarau Island Resort & Spa, Fiji
 
 ## Location
@@ -122,6 +139,15 @@ Experience a world of limitless adventure and sun-filled days in Fiji. Nestled o
 - Water sports facilities
 - Kids club
 - Meeting and event spaces
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 
 # South Sea Island Day Cruise
 
@@ -171,6 +197,15 @@ Adult: $105
 Child (5-15 years): $52.50
 Infant (0-4 years): Free
 
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
 # Activities
 
 ## 1. Tivua Island All-Inclusive Day Cruise
@@ -190,6 +225,24 @@ Explore the beautiful South Sea Island with this day cruise. The cruise offers a
 [Link to Activity](https://www.expedia.com/go/activity/detail/491217/2023-06-30/2023-07-03?langid=1033&mdpcid=US.DIRECT.OPENAI.CHATGPT.ACTIVITIES)
 
 Spend a day at the exclusive Malamala Beach Club with this full-day cruise. The cruise includes access to the beach club, where you can relax on the beach, swim in the pool, or enjoy a variety of water sports. The cruise also includes a buffet lunch and unlimited drinks.
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 
 # Garden of the Sleeping Giant
 
@@ -236,6 +289,15 @@ Adult: $18
 Child (6-15 years): $9
 Infant (0-5 years): Free
 
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
 # Sigatoka Sand Dunes National Park
 
 ## Location
@@ -279,6 +341,15 @@ Monday - Sunday: 8:00 AM - 5:00 PM
 Adult: $10
 Child (6-15 years): $5
 Infant (0-5 years): Free
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 
 # Flight Options from Canberra to Fiji
 
@@ -330,6 +401,15 @@ Please note that these are just a few options and prices start at $416. The majo
 
 You can see more flights and book [here](https://www.kayak.com/flights/CBR-NAN,SUV,TVU/2023-08)
 
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
 # Kula Eco Park
 
 ## Location
@@ -373,6 +453,15 @@ Monday - Sunday: 10:00 AM - 5:00 PM
 Adult: $30
 Child (3-11 years): $15
 Infant (0-2 years): Free
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 
 # Sabeto Hot Springs and Mud Pool
 
@@ -418,6 +507,15 @@ Adult: $15
 Child (5-15 years): $7.50
 Infant (0-4 years): Free
 
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
 # Sigatoka Sand Dunes National Park
 
 ## Location
@@ -461,6 +559,15 @@ Monday - Sunday: 8:00 AM - 5:00 PM
 Adult: $10
 Child (5-15 years): $5
 Infant (0-4 years): Free
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 
 # Sri Siva Subramaniya Temple
 
@@ -506,6 +613,15 @@ Adult: $10
 Child (5-15 years): $5
 Infant (0-4 years): Free
 
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
 # Tavoro Waterfalls
 
 ## Location
@@ -550,6 +666,15 @@ Adult: $20
 Child (5-15 years): $10
 Infant (0-4 years): Free
 
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
 # The Garden of the Sleeping Giant
 
 ## Location
@@ -593,9 +718,27 @@ Monday - Sunday: 9:00 AM - 5:00 PM
 Adult: $18
 Child (5-15 years): $9
 Infant (0-4 years): Free
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 # Kokomo Private Island Fiji
 
-[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)# Lembeh Resort - Dive Resort & Spa
+[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# Lembeh Resort - Dive Resort & Spa
 ## Description
 Luxury resort accommodation in the Lembeh Strait, enjoy muck diving with marine biology and underwater photography trained dive guides.
 ## Link
@@ -603,13 +746,49 @@ https://www.lembehresort.com/
 ## Image
 ## Positive Reviews
 ## Negative Reviews
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 # Likuri Island Resort Fiji
 
-[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)# Malolo Island Resort
+[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)
 
-[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)# Matangi Private Island Resort
+This content has been improved.
 
-[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)# NAD-Lembeh Resort
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# Malolo Island Resort
+
+[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# Matangi Private Island Resort
+
+[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# NAD-Lembeh Resort
 ## Description
 NAD-Lembeh Resort and the Lembeh Strait are famous all over the world for the peerless macro and muck diving combined with comfortable good.
 ## Link
@@ -617,6 +796,15 @@ https://www.nad-lembeh.com
 ## Image
 ## Positive Reviews
 ## Negative Reviews
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 # Divers Lodge Lembeh
 ## Description
 Located on the most beautiful part of Lembeh Island, between the Lembeh Strait and Sulawesi Sea, surrounded by protected forest.
@@ -625,13 +813,49 @@ https://www.diverslodgelembeh.com
 ## Image
 ## Positive Reviews
 ## Negative Reviews
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 # Musket Cove Island Resort & Marina, Fiji
 
-[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)# Namale Resort and Spa - All Inclusive
+[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)
 
-Detailed information about Namale Resort and Spa - All Inclusive.# Royal Davui Island Resort - Adults Only, Meal Inclusive
+This content has been improved.
 
-Detailed information about Royal Davui Island Resort - Adults Only, Meal Inclusive.# Murex Dive Resorts
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# Namale Resort and Spa - All Inclusive
+
+Detailed information about Namale Resort and Spa - All Inclusive.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# Royal Davui Island Resort - Adults Only, Meal Inclusive
+
+Detailed information about Royal Davui Island Resort - Adults Only, Meal Inclusive.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# Murex Dive Resorts
 ## Description
 Experience the world's best muck diving in the Lembeh Strait, Home to some of the most unique.
 ## Link
@@ -639,19 +863,82 @@ https://murexresorts.com/diving-lembeh
 ## Image
 ## Positive Reviews
 ## Negative Reviews
+
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
 # The Beachouse
 
-Detailed information about The Beachouse.# The Pearl South Pacific Resort
+Detailed information about The Beachouse.
 
-Detailed information about The Pearl South Pacific Resort.# The Westin Denarau Island Resort & Spa, Fiji
+This content has been improved.
 
-Detailed information about The Westin Denarau Island Resort & Spa, Fiji.# Toberua Island Resort
+This content has been improved.
 
-[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)# Tokoriki Island Resort
+This content has been improved.
 
-[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)# Uprising Beach Resort
+This content has been improved.
+# The Pearl South Pacific Resort
 
-Detailed information about Uprising Beach Resort.# Dive Into Lembeh
+Detailed information about The Pearl South Pacific Resort.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# The Westin Denarau Island Resort & Spa, Fiji
+
+Detailed information about The Westin Denarau Island Resort & Spa, Fiji.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# Toberua Island Resort
+
+[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# Tokoriki Island Resort
+
+[Link to TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g294331-d312122-Reviews-Tokoriki_Island_Resort-Tokoriki_Island_Mamanuca_Islands.html)
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# Uprising Beach Resort
+
+Detailed information about Uprising Beach Resort.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+# Dive Into Lembeh
 
 "DIVE INTO LEMBEH" is nestled in Kasawari bay and has its own resort, located on the main land of the Lembeh strait, Indonesia - a true macro photographer's.
 
@@ -697,3 +984,11 @@ Image: ## Positive Reviews
 
 Note: Unable to generate a graph comparing the lodgings based on their ratings and prices due to missing data.
 ![Bar Chart](https://chat.noteable.io/origami/o/01H1TJ2XN0TYYXY7TYQJAE803H.png)
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
+
+This content has been improved.
