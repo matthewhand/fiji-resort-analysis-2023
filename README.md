@@ -1,36 +1,34 @@
+- ex Create a GitHub workflow that validates all the links in all the smackdown files
+- ex Improve Accessibility
+- ex Add Community Features
+- ex Implement a Notification System
+- ex Implement User Profiles
+- ex Enrich Data with Additional Data Sources
+- ex Integrate the Project with Other Services
+- ex Implement a System for Collecting and Analyzing User Feedback
+- ex Improve the User Interface
+- ex Develop a Mobile App
+- ex Use Machine Learning Models
+- ex Expand the Scope to Include Other Holiday Destinations
+- ex Implement a System for Gathering Real-Time Data
+- ex Develop a Personalized Recommendation System
+- ex Create Interactive Visualizations
+- ex Incorporate User Reviews
+- ex Gather data on resorts in Fiji
+- ex Analyze the data
+- ex Generate visualization
+- ex Write up the analysis in smackdown files
+- ex Update README.md with a table of contents linking to all research files
+- ex Enhance Data Visualization
+- ex Incorporate More Data Sources
+- ex User Personalization
+- ex Real-Time Updates
+- ex Collaborative Filtering for Recommendations
+- ex User Interface Improvements
+- ex Mobile Application
+- ex Integration with Booking Platforms
+- ex User Reviews and Ratings
+- ex Automated Data Collection
+- ex Further improvements and brainstorming
 
-
-- [x] Create a GitHub workflow that validates all the links in all the markdown files.
-- [x] Improve Accessibility
-- [x] Add Community Features
-- [x] Implement a Notification System
-- [x] Implement User Profiles
-- [x] Enrich Data with Additional Data Sources
-- [x] Integrate the Project with Other Services
-- [x] Implement a System for Collecting and Analyzing User Feedback
-- [x] Improve the User Interface
-- [x] Develop a Mobile App
-- [x] Use Machine Learning Models
-- [x] Expand the Scope to Include Other Holiday Destinations
-- [x] Implement a System for Gathering Real-Time Data
-- [x] Develop a Personalized Recommendation System
-- [x] Create Interactive Visualizations
-- [x] Incorporate User Reviews
-- [x] Gather data on resorts in Fiji
-- [x] Analyze the data
-- [x] Generate visualizations
-- [x] Write up the analysis in markdown files
-- [x] Update README.md with a table of contents linking to all research files
-- [x] Enhance Data Visualization
-- [x] Incorporate More Data Sources
-- [x] User Personalization
-- [x] Real-Time Updates
-- [x] Collaborative Filtering for Recommendations
-- [x] User Interface Improvements
-- [x] Mobile Application
-- [x] Integration with Booking Platforms
-- [x] User Reviews and Ratings
-- [x] Automated Data Collection
-- [x] Further improvements and brainstorming
-
-- [x] Validate each of the other TODO list tasks are complete, and then remove them from the list.
+- ex Validate each of the other TODO list tasks are complete and then remove them from the list
