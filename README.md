@@ -46,3 +46,7 @@
 - [ ] Develop a mobile app for users to access the resort analysis on the go
 - [ ] Implement a system for users to share their resort reviews and ratings
 - [ ] Incorporate data from other holiday destinations for users interested in exploring beyond Fiji
+- [ ] Create a GitHub workflow to automatically run the Python notebook whenever there are changes to the data files
+- [ ] Implement a data validation step in the Python notebook to ensure the quality and consistency of the data
+- [ ] Add a data visualization step in the Python notebook to provide insights into the data
+- [ ] Implement a caching mechanism to improve the performance of the Python notebook
