@@ -1,50 +1,48 @@
+
 # Fiji Resort Analysis 2023
-- Create a mockup React + MUI application for the Fiji travel scuba research
-ex Create a GitHub workflow that validates all the links in all the smackdown files
-ex Improve Accessibility
-ex Add Community Features
-ex Implement a Notification System
-ex Implement User Profiles
-ex Enrich Data with Additional Data Sources
-ex Integrate the Project with Other Services
-ex Implement a System for Collecting and Analyzing User Feedback
-ex Improve the User Interface
-ex Develop a Mobile App
-ex Use Machine Learning Models
-ex Expand the Scope to Include Other Holiday Destinations
-ex Implement a System for Gathering Real-Time Data
-ex Develop a Personalized Recommendation System
-ex Create Interactive Visualizations
-ex Incorporate User Reviews
-ex Enhance Data Visualization
-ex Incorporate More Data Sources
-ex User Personalization
-ex Real-Time Updates
-ex Collaborative Filtering for Recommendations
-ex User Interface Improvements
-ex Mobile Application
-ex Integration with Booking Platforms
-ex User Reviews and Ratings
-ex Automated Data Collection
-ex Further improvements and brainstorming
-ex Validate each of the other TODO list tasks are complete and then remove them from the list
-ex Implement a system for tracking changes in resort prices over time
-ex Develop a feature for users to save their favorite resorts
-ex Create a user-friendly dashboard for visualizing resort data
-ex Incorporate weather data into the resort analysis
-ex Develop a feature for comparing different resorts
-ex Implement a system for sending notifications to users when prices at their favorite resorts drop
-ex Incorporate flight and local transportation data into the resort analysis
-ex Develop a mobile app for users to access the resort analysis on the go
-ex Implement a system for users to share their resort reviews and ratings
-ex Incorporate data from other holiday destinations for users interested in exploring beyond Fiji
-ex Implement a system for tracking changes in resort prices over time
-ex Develop a feature for users to save their favorite resorts
-ex Create a user-friendly dashboard for visualizing resort data
-ex Incorporate weather data into the resort analysis
-ex Develop a feature for comparing different resorts
-ex Implement a system for sending notifications to users when prices at their favorite resorts drop
-ex Incorporate flight and local transportation data into the resort analysis
-ex Develop a mobile app for users to access the resort analysis on the go
-ex Implement a system for users to share their resort reviews and ratings
-ex Incorporate data from other holiday destinations for users interested in exploring beyond Fiji
+- [x] Set the default Noteable project
+- [x] Review the instructions
+- [x] Retrieve RapidAPI endpoints
+- [x] Subscribe to RapidAPI endpoints
+- [x] Categorise the locations and activities by the diving region
+- [x] Permanently store the markdown file rapidapi-endpoints.md in github
+- [x] Use the contents of rapidapi-endpoints.md for all rapidapi related python code
+- [ ] Create a mockup React + MUI application for the Fiji travel scuba research
+- [ ] Create a GitHub workflow that validates all the links in all the smackdown files
+- [ ] Improve Accessibility
+- [ ] Add Community Features
+- [ ] Implement a Notification System
+- [ ] Implement User Profiles
+- [ ] Enrich Data with Additional Data Sources
+- [ ] Integrate the Project with Other Services
+- [ ] Implement a System for Collecting and Analyzing User Feedback
+- [ ] Improve the User Interface
+- [ ] Develop a Mobile App
+- [ ] Use Machine Learning Models
+- [ ] Expand the Scope to Include Other Holiday Destinations
+- [ ] Implement a System for Gathering Real-Time Data
+- [ ] Develop a Personalized Recommendation System
+- [ ] Create Interactive Visualizations
+- [ ] Incorporate User Reviews
+- [ ] Enhance Data Visualization
+- [ ] Incorporate More Data Sources
+- [ ] User Personalization
+- [ ] Real-Time Updates
+- [ ] Collaborative Filtering for Recommendations
+- [ ] User Interface Improvements
+- [ ] Mobile Application
+- [ ] Integration with Booking Platforms
+- [ ] User Reviews and Ratings
+- [ ] Automated Data Collection
+- [ ] Further improvements and brainstorming
+- [ ] Validate each of the other TODO list tasks are complete and then remove them from the list
+- [ ] Implement a system for tracking changes in resort prices over time
+- [ ] Develop a feature for users to save their favorite resorts
+- [ ] Create a user-friendly dashboard for visualizing resort data
+- [ ] Incorporate weather data into the resort analysis
+- [ ] Develop a feature for comparing different resorts
+- [ ] Implement a system for sending notifications to users when prices at their favorite resorts drop
+- [ ] Incorporate flight and local transportation data into the resort analysis
+- [ ] Develop a mobile app for users to access the resort analysis on the go
+- [ ] Implement a system for users to share their resort reviews and ratings
+- [ ] Incorporate data from other holiday destinations for users interested in exploring beyond Fiji
